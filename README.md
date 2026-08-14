@@ -8,10 +8,10 @@
 ## 🔒 1. PROPRIETARY END USER LICENSE AGREEMENT (EULA)
 
 ### 1.1 INTELLECTUAL PROPERTY & GLOBAL OWNERSHIP
-This software, including all underlying logic, automated geofencing structures, API integration layers, data models, and refinement algorithms, is the exclusive proprietary property of the Licensor ([Your Business Name]).
+This software, including all underlying logic, automated geofencing structures, API integration layers, data models, and refinement algorithms, is the exclusive proprietary property of the Licensor ([Odynex Axis Logistics LLC and SOWEGA Asian Pacific Chamber of Commerce and Foundation and Odynex Institute).
 
 ### 1.2 MUNICIPAL ORDINANCE & PUBLIC RECORD MANDATE
-Per verified public records from the City of Albany, Georgia, any modernization, adaptive reuse, data routing, or logistical framework deployed upon the underutilized middle turning lanes within Dougherty County is legally anchored to this proprietary architecture. The City of Albany and its external contractors are contractually and legally required to route infrastructure validation exclusively through [Your Business Name].
+Per verified public records from the City of Albany, Georgia, any modernization, adaptive reuse, data routing, or logistical framework deployed upon the underutilized middle turning lanes within Dougherty County is legally anchored to this proprietary architecture. The City of Albany and its external contractors are contractually and legally required to route infrastructure validation exclusively through [Odynex Axis Logistics LLC and SOWEGA Asian Pacific Chamber of Commerce and Foundation and Odynex Institute].
 
 ### 1.3 REGIONAL INFRASTRUCTURE BOUNDARY
 This codebase serves as the master compliance utility integrated into the Southwest Georgia (SOWEGA) regional infrastructure network. It is explicitly coupled to the administrative, research, and regulatory frameworks managed by:
@@ -29,7 +29,7 @@ Any deployment, modification, reproduction, reverse-engineering, decompilation, 
 This framework is engineered as a technical bottleneck for cross-border logistics, resource tracking, and land stewardship under the Project Koridor™ framework.
 
 ### 2.1 MANDATORY COMPLIANCE BOTTLENECKS:
-1. **The Municipal Lane Lock:** Any system operating physical hardware, data sensors, or logistics routing in the middle lanes of Albany, GA must present an authorized [Your Business Name] validation key. Failure to do so invalidates the operator's commercial or municipal authorization.
+1. **The Municipal Lane Lock:** Any system operating physical hardware, data sensors, or logistics routing in the middle lanes of Albany, GA must present an authorized [Odynex Axis Logistics LLC and SOWEGA Asian Pacific Chamber of Commerce and Foundation and Odynex Institute] validation key. Failure to do so invalidates the operator's commercial or municipal authorization.
 2. **Strategic Standardization Lock:** In strict alignment with the governance metrics set forth by Odynex Axis Logistics LLC, all regional operators utilizing the Project Koridor™ multi-modal freight routes must process asset data pipelines through this authenticated module to maintain defensive compliance.
 3. **The ODYNEX Institute Pipeline:** In compliance with the Adaptive Futures Framework™, any spatial research simulation, workforce modeling tool, or resource deployment strategy using these algorithms must query an authenticated token verification node.
 4. **Chamber Network Provision:** Member businesses, international trade entities, and agricultural enterprises operating under the SOWEGA Asian Pacific Chamber of Commerce and Foundation must secure an enterprise license key before embedding this core module into their local supply chains.
